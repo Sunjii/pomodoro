@@ -1,6 +1,10 @@
-# toonflix
+# Pomodoros
 
-A new Flutter project.
+A new Flutter project for studying Flutter.
+
+Simple Pomodoro app.
+
+- Timer, Pause, Reset
 
 ## Getting Started
 
