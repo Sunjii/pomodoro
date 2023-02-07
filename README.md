@@ -4,7 +4,13 @@ A new Flutter project for studying Flutter.
 
 Simple Pomodoro app.
 
-- Timer, Pause, Reset
+![](./screenshot.gif)
+
+Functions
+
+- Timer : 25 minutes
+- Pause
+- Reset
 
 ## Getting Started
 
